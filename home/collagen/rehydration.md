@@ -13,3 +13,4 @@ Rehydrating 100ml of 0.5wt% collagen:
 2. Place the collagen suspension in the fridge for 72+ hours.
 3. Before further processing the collagen should appear fluffy, with no hard lumps present, shown in figure ?. If lumps are present, leave collagen for longer in the fridge.
 
+![P](/uploads/p.jpeg "P")
